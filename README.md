@@ -1,2 +1,2 @@
 # Big-Data
-Big Sql to csv
+> This code convert Big-SQL dump file to .CSV file using python and ReGex
